@@ -23,6 +23,12 @@ Thumbs.db
 .vscode/
 .idea/
 
+# Documentos pessoais, artigos e PDFs locais
+*.docx
+*.pdf
+/Visao90_Documentacao_Metricas_TCC.html
+/gerar_dicionario_pdf.js
+
 # Arquivos temporários e backups
 *BACKUP*
 *.tmp

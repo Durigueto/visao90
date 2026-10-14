@@ -132,8 +132,7 @@ A navegação está organizada em quatro módulos principais:
 ```text
 DesenvTCC/
 ├── README.md                      # Documentação geral e guia da banca examinadora
-├── TCC Ajustado João Pedro (1).docx # Artigo científico formatado em normas ABNT
-├── Visao90_Documentacao_Metricas.pdf # Dicionário técnico de cálculos e indicadores
+├── .gitmodules                    # Vínculo dos submódulos do front-end e back-end
 │
 ├── tcc-backend/                   # API Node.js/TypeScript (Next.js)
 │   ├── dados/
