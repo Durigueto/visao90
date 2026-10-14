@@ -2,9 +2,9 @@
 
 Trabalho de Conclusão de Curso (TCC) em Ciência da Computação.
 
-* **Autor:** João Pedro Dias
+* **Autor:** João Pedro Dias Durigueto
 * **Orientador:** Prof. Me. Kenedy Antônio Freitas
-* **Aplicação:** Visão 90 (Monitoramento Cinemático e Fisiológico)
+* **Aplicação:** Visão 90
 
 ---
 
