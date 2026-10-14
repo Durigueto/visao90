@@ -1,0 +1,6 @@
+[submodule "tcc-frontend"]
+	path = tcc-frontend
+	url = https://github.com/Durigueto/tcc-frontend.git
+[submodule "tcc-backend"]
+	path = tcc-backend
+	url = https://github.com/Durigueto/tcc-backend.git
